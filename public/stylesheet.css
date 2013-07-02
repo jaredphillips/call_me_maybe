@@ -1,0 +1,27 @@
+
+img {
+	border
+	padding-top: 3%;
+	padding-left: 2%;
+	float: left;
+	width: 40%;
+	height: 80%;
+}
+
+.media {
+  float: left;
+  padding-left: 30px;	
+}
+
+.buttons {
+  display: block;
+}
+
+.button {
+  width: 100px;
+  height: 40px;
+  border-radius: 4px;
+}
+
+#video-player {
+}
